@@ -1,2 +1,2 @@
 # IBM CNN
-Download IBM CNN model into local system
+Downloaded code IBM watson to local system. 
